@@ -1,6 +1,6 @@
 # Pharmaceutical Commercial Analytics & Sales Trends
 
-
+![Sales Dashboard](Pharmacy_Sales_Dashboard.jpg)
 
 ## Project Overview
 
